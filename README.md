@@ -4,7 +4,7 @@ In this project, I will implement the Decision Tree learning algorithm from scra
 
 
 I will use a data-set that includes mushroom records drawn from the Audubon Society Field Guide to North American
-Mushrooms (1981). The database describes samples from dierent species of gilled mushrooms in
+Mushrooms (1981). The database describes samples from different species of gilled mushrooms in
 the families Agaricus and Lepiota. Each sample is described by a string of 23 characters, on a single
 line of the provided file( mushroom_data.txt); each such string describes the values of 22 attributes
 for each sample (described below), and the last character corresponds to the correct classification
@@ -13,6 +13,7 @@ of the mushroom into either edible (e) or poisonous (p) mushrooms.
 For example, the first two samples from the data-set are a poisonous and then an edible species, as follows:
 
 x s n t p f c n k e e s s w w p w o p k s u p
+
 x s y t a f c b k e c s s w w p w o p n n g e
 
 The 22 attribute variables, and their values, are given in Table 1, at the end of this document.
