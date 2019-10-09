@@ -1,0 +1,127 @@
+******************************************
+FILE CONTENTS:	This is a sample run of the learning program, 
+using information thoery algorithm, and
+allowing the training set to grow up to 250 members, and 
+tracking results for learning in increments of 10.
+******************************************
+
+Please enter a training set size (a positive multiple of 250 that is <= 1000): 250
+Please enter a training increment (either 10, 25, or 50): 10
+Please enter a heuristic to use (either [C]ounting-based or [I]nformation theoretic): I
+
+Loading Property Information from file.
+Loading Data from database.
+
+Running with 10 examples in training set
+Given current tree, we have a success rate of 0.6780099870538191 percent
+
+Running with 20 examples in training set
+Given current tree, we have a success rate of 0.9136304790086924 percent
+
+Running with 30 examples in training set
+Given current tree, we have a success rate of 0.7523580543739596 percent
+
+Running with 40 examples in training set
+Given current tree, we have a success rate of 0.7523580543739596 percent
+
+Running with 50 examples in training set
+Given current tree, we have a success rate of 0.9160347697429259 percent
+
+Running with 60 examples in training set
+Given current tree, we have a success rate of 0.9870538191233587 percent
+
+Running with 70 examples in training set
+Given current tree, we have a success rate of 0.9870538191233587 percent
+
+Running with 80 examples in training set
+Given current tree, we have a success rate of 0.9870538191233587 percent
+
+Running with 90 examples in training set
+Given current tree, we have a success rate of 0.9870538191233587 percent
+
+Running with 100 examples in training set
+Given current tree, we have a success rate of 0.9870538191233587 percent
+
+Running with 110 examples in training set
+Given current tree, we have a success rate of 0.9870538191233587 percent
+
+Running with 120 examples in training set
+Given current tree, we have a success rate of 0.9870538191233587 percent
+
+Running with 130 examples in training set
+Given current tree, we have a success rate of 0.9926021823562049 percent
+
+Running with 140 examples in training set
+Given current tree, we have a success rate of 0.9926021823562049 percent
+
+Running with 150 examples in training set
+Given current tree, we have a success rate of 0.9926021823562049 percent
+
+Running with 160 examples in training set
+Given current tree, we have a success rate of 0.9926021823562049 percent
+
+Running with 170 examples in training set
+Given current tree, we have a success rate of 0.9926021823562049 percent
+
+Running with 180 examples in training set
+Given current tree, we have a success rate of 0.9926021823562049 percent
+
+Running with 190 examples in training set
+Given current tree, we have a success rate of 0.9926021823562049 percent
+
+Running with 200 examples in training set
+Given current tree, we have a success rate of 0.9926021823562049 percent
+
+Running with 210 examples in training set
+Given current tree, we have a success rate of 0.9926021823562049 percent
+
+Running with 220 examples in training set
+Given current tree, we have a success rate of 0.9926021823562049 percent
+
+Running with 230 examples in training set
+Given current tree, we have a success rate of 0.9926021823562049 percent
+
+Running with 240 examples in training set
+Given current tree, we have a success rate of 0.9926021823562049 percent
+
+Running with 250 examples in training set
+Given current tree, we have a success rate of 0.9926021823562049 percent
+
+     -------------------
+     Final Decision Tree
+     -------------------
+
+{'odor': {'a': 'e', 'c': 'p', 'f': 'p', 'l': 'e', 'm': 'p', 'n': {'spore print color': {'k': 'e', 'n': 'e', 'r': 'p', 'w': 'e'}}, 'p': 'p'}}
+
+     
+     ----------
+     Statistics
+     ----------
+
+
+[0.6780099870538191,
+ 0.9136304790086924,
+ 0.7523580543739596,
+ 0.7523580543739596,
+ 0.9160347697429259,
+ 0.9870538191233587,
+ 0.9870538191233587,
+ 0.9870538191233587,
+ 0.9870538191233587,
+ 0.9870538191233587,
+ 0.9870538191233587,
+ 0.9870538191233587,
+ 0.9926021823562049,
+ 0.9926021823562049,
+ 0.9926021823562049,
+ 0.9926021823562049,
+ 0.9926021823562049,
+ 0.9926021823562049,
+ 0.9926021823562049,
+ 0.9926021823562049,
+ 0.9926021823562049,
+ 0.9926021823562049,
+ 0.9926021823562049,
+ 0.9926021823562049,
+ 0.9926021823562049]
+
